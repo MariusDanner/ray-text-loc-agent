@@ -1,0 +1,9 @@
+ray
+requests
+ray[rllib]
+ray[debug]
+gym
+tensorflow
+psutil
+opencv-python
+lz4
